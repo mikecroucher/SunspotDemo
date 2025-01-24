@@ -2,6 +2,8 @@
 # Analyzing Cyclical Data with FFT
 Run this analysis in MATLAB Online [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mikecroucher/SunspotDemo&file=/sunspotAnalysis.mlx)
 
+This is an example that was taken from [The MATLAB Documentation](https://uk.mathworks.com/help/matlab/math/using-fft.html).
+
 
 You can use the Fourier transform to analyze variations in data, such as an event in nature over a period time.
 
