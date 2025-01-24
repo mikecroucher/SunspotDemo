@@ -9,7 +9,7 @@ You can use the Fourier transform to analyze variations in data, such as an even
 For almost 300 years, astronomers have tabulated the number and size of sunspots using the [Zurich sunspot relative number.](https://en.wikipedia.org/wiki/Sunspot_number)  Plot the Zurich number over approximately the years 1700 to 2000.
 
 ```matlab
-"sunspot.dat";
+load "sunspot.dat";
 year = sunspot(:,1);
 relNums = sunspot(:,2);
 plot(year,relNums)
